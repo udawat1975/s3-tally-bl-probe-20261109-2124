@@ -1,0 +1,10 @@
+# Verification assets and CI are owned by the verification role (pilot: the author's second account or a team).
+/tests/acceptance/   @udawat1975
+/.github/            @udawat1975
+/AGENTS.md           @udawat1975
+/CLAUDE.md           @udawat1975
+# Governing artifacts and dependencies (scenario v0.3.1, ruling B2): spec, decision and task-contract changes and new dependencies need the verifier's review.
+/docs/spec/          @udawat1975
+/docs/adr/           @udawat1975
+/docs/tasks/         @udawat1975
+/pyproject.toml      @udawat1975
